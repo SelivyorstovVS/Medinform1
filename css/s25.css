@@ -1,23 +1,28 @@
 body{
-    background-color: rgb(238, 183, 204);
-    color:rgb(105, 64, 151);
-    font-family: sans-serif
+    background-color: rgb(225, 183, 191);
+    color:rgb(89, 67, 122);
+    font-family: 'sans-serif'
 }
 header,
 footer {
-    text-align: right;
-    background-color: gainsboro;
+    font-family:'sans-serif'
 }
+ul,
 nav{
-    background-color:rgb(105, 64, 151);
+    background-color:rgb(89, 67, 122);
+    color: white;
+    font-family:'sans-serif'
+
 }
 p{
     text-align: justify;
     text-indent: 8ch;
+    font-family: 'sans-serif';
+    
 }
 h2,
 h3,
 h4 {
-    color: crimson;
-    text-decoration-line: underline;
+    color: rgb(89, 67, 122);
+    font-family: 'sans-serif'
 }
